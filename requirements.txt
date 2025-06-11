@@ -1,0 +1,7 @@
+streamlit
+crewai
+crewai_tools
+langchain
+langchain_community
+langchain_openai
+duckduckgo-search
